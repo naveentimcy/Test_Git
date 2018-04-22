@@ -1,3 +1,2 @@
-print("i am gettinh hung");
-print("pizza");
-print("burger")
+print ("getting hungry")
+print("bananana")
